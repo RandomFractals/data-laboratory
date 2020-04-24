@@ -26,6 +26,7 @@
   "extensionPack": [
     "RandomFractalsInc.vscode-data-preview",
     "RandomFractalsInc.geo-data-viewer",
-    "RandomFractalsInc.vscode-vega-viewer"
+    "RandomFractalsInc.vscode-vega-viewer",
+    "vsls-contrib.gistfs"
   ]
 }
