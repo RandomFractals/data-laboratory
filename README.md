@@ -1,2 +1,3 @@
 # data-laboratory
-vscode data laboratory extensions pack
+
+VScode extensions pack with data, charting and mapping tools for devs, data scientists and data viz artists ...

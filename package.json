@@ -1,0 +1,31 @@
+{
+    "name": "data-laboratory",
+    "displayName": "Data Laboratory 🔬",
+    "description": "Data tools for devs, data scientists, and data viz artists ...",
+    "version": "1.0.0",
+    "icon": "images/microscope.png",
+    "publisher": "RandomFractalsInc",
+    "author": "Taras Novak a.k.a. dataPixy devTools maker :)",
+    "contributors": [
+        "Taras Novak"
+    ],
+    "license": "Apache-2.0",
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RandomFractals/data-laboratory"
+    },
+    "bugs": "https://github.com/RandomFractals/data-laboratory/issues",
+    "homepage": "https://github.com/RandomFractals/data-laboratory/README.md",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "RandomFractalsInc.vscode-data-preview",
+        "RandomFractalsInc.geo-data-viewer",
+        "RandomFractalsInc.vscode-vega-viewer"
+    ]
+}
